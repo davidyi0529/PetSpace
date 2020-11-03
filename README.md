@@ -199,7 +199,7 @@ Given I’m a User, when I see a post I like, I am able to leave a comment.
 https://petspace2020.herokuapp.com/
 
 ## Repository Link:
-https://github.com/joshglugatch/PetSpace
+https://github.com/davidyi0529/PetSpace
 
 <br>
 
@@ -230,6 +230,8 @@ Jefry Romero
 
 <br>
 Ernest Wesson  
+
+Portfolio link: https://heem86.github.io/EW-Repsonsive-Site/
 
 [![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/HEEM86)
 <br>
